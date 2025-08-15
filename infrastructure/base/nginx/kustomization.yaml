@@ -1,0 +1,3 @@
+resources:
+  - "respository.yaml"
+  - "namespace.yaml"
