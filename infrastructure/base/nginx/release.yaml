@@ -6,6 +6,7 @@ metadata:
   name: nginx
   namespace: nginx
 spec:
+  timeout: 10m
   chart:
     spec:
       chart: nginx-ingress
